@@ -187,3 +187,4 @@ Without this, SQS returns `http://localhost:4566/...` in QueueUrl responses, whi
 ## License
 
 MIT — use it however you want.
+
